@@ -1,0 +1,11 @@
+flask
+flask_cors
+pandas
+openpyxl
+Flask-SQLAlchemy
+python-dotenv
+requests
+Jinja2
+markdown
+python-dateutil
+gunicorn
